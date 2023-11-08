@@ -1,9 +1,9 @@
 package MainPack;
 import java.util.Scanner;
 
-import MainPack.ArithClass.ArithClass;
-import MainPack.FuncClass.FuncClass;
-import MainPack.RelatePack.RelateClass;
+import ArithPack.ArithClass;
+import FuncPack.FuncClass;
+import RelatePack.RelateClass;
 
 public class MainClass {
     public static void main(String[] args) {
